@@ -1,12 +1,22 @@
-# Race of Sloths Onboarding: Join the Race and Become a Contributor! ☄️
+# Race of Sloths Onboarding ☄️
 
-Exciting things are happening at Race of Sloths, and we're kicking off with this special onboarding! Here's your chance to get involved, contribute, and become a part of our community.
+Race of Sloths is a GitHub bot-user that helps open-source contributors collect Sloth Points while contributing to projects on GitHub.
 
-## Getting Started 🚀
+1. Follow your regular GitHub flow: Create a regular PR ([example](https://github.com/race-of-sloths/race-of-sloths-onboarding/pull/2))
+2. Tag `@race-of-sloths` user in the description (or PR comment)
+3. The user will respond to you and ask the repo maintainer to review your PR and score your PR
+4. Now you are part of the Race! You are one of the Sloths (learn more about the irony behind the naming [here](https://race-of-sloths.com/about))
 
-We've made onboarding easy as 1-2-3. Follow these instructions to become a contributor! You'll be making your first PR in no time. 😎
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/4c2062e9-2c77-4fc2-9eff-49e7fcb8bcdb">
 
-Don't forget to mention `@race-of-sloths` in your PR description—it's all part of the process!
+## Why?
+
+It is a fun game to play with your fellow ~engineers~ Sloths and there are some thematic events with [conference tickets giveaways](https://x.com/race_of_sloths/status/1813282289817624826), [swag](https://t.me/race_of_sloths/141), and even [money rewards](https://www.reddit.com/r/RaceOfSloth/comments/1gk8bgn/the_rosctober_2024_winners_are_here/).
+
+## Try it out in this repository! 🚀
+
+> [!TIP]
+> Don't forget to mention `@race-of-sloths` in your PR description—it's all part of the process!
 
 Choose your instructions below to get started with your contribution:
 
@@ -118,23 +128,15 @@ Here is an [example](https://github.com/akorchyn/akorchyn/blob/main/README.md?pl
 ### Join Our Community
 We're all over the place, and we want you to be, too!
 
-- **Telegram**: Stay in the loop with announcements and join the conversation.
-  👉 [Join our chat](https://t.me/race_of_sloths_chat)
-
-- **Reddit**: Share your contributions, get feedback, and connect with other members.
-  👉 [Join r/RaceOfSloth](https://www.reddit.com/r/RaceOfSloth/)
-
-- **X (Twitter)**: Follow us for updates and the latest from Race of Sloths HQ.
-  👉 [@race_of_sloths](https://x.com/race_of_sloths)
-
-- **GitHub**: See the magic happen and get hands-on.
-  👉 [Race of Sloths](https://github.com/race-of-sloths)
+- [**Reddit**](https://www.reddit.com/r/RaceOfSloth/)
+- [**Telegram**](https://t.me/race_of_sloths)
+- [**X (Twitter)**](https://x.com/race_of_sloths)
+- [**GitHub**](https://github.com/race-of-sloths)
 
 <details>
 <summary>🤔 Need Help?</summary>
 
-If you run into any issues:
-1. Check out our [Telegram chat](https://t.me/race_of_sloths_chat)
+Reach out to us in [Telegram chat](https://t.me/race_of_sloths_chat)
 </details>
 
 Your contributions—no matter how small—help shape the future. Let's make this happen. It's simple, it's fun, and we can't wait to see what you'll come up with!
